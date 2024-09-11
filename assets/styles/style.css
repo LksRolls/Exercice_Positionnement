@@ -1,0 +1,29 @@
+.FirstDiv {
+    background-color: greenyellow;
+    border: 1px solid black;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    right: 10%;
+    bottom: 10%;
+}
+
+.SecDiv {
+    background-color: blue;
+    border: 1px solid black;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    right: 20%;
+    bottom: 20%;
+}
+
+.ThreDiv {
+    background-color: red;
+    border: 1px solid black;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    right: 30%;
+    bottom: 30%;
+}
