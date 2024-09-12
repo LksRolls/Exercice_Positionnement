@@ -4,6 +4,8 @@
     position:relative;
     display:flex;
 }
+
+/* ---- Exercice 1 ---- */
 #yellow-0{
     background-color:#FFFF00;
     top:50px;
@@ -28,6 +30,7 @@
     left:50px;
 }
  
+/* ---- Exercice 2 ---- */
 #yellow-1{
     background-color:#FFFF00;
     top:50px;
@@ -49,9 +52,10 @@
     width: 600px;
     height: 450px;
     top:30px;
-    left:50px;
+    left:150px;
 }
- 
+
+/* ---- Exercice 3 ---- */
 #yellow-2{
     background-color:#FFFF00;
     top:275px;
@@ -75,47 +79,135 @@
     width: 800px;
     height: 300px;
     top:30px;
-    left:50px;
+    left:250px;
     position: absolute;
 }
 
-/* ---- Quatrieme Exercice ----
-.FirstDiv {
-    background-color: greenyellow;
-    border: 1px solid black;
+/* ---- Exercice 4 ---- */
+#green-3 {
+    background-color: #00FF00;
     position: absolute;
-    top: 10%;
-    left: 10%;
-    right: 10%;
-    bottom: 70%;
+    top: 30px;
+    left: 1250px;
+    width: 800px;
+    height: 150px;
 }
 
-.SecDiv {
+#blue-3 {
     background-color: blue;
-    border: 1px solid black;
     position: absolute;
-    top: 40%;
-    left: 40%;
-    right: 40%;
-    bottom: 20%;
+    top: 200px;
+    left: 350px;
+    width: 150px;
+    height: 150px;
 }
 
-.ThreDiv {
-    background-color: red;
-    border: 1px solid black;
-    position: absolute;
-    top: 20%;
-    left: 20%;
-    right: 20%;
-    bottom: 20%;
-}
-
-.FourDiv {
+#yellow-3 {
     background-color: yellow;
-    border: 1px solid black;
     position: absolute;
-    top: 170%;
-    left: 200%;
-    right: -250%;
-    bottom: -150%;
+    top: 17px;
+    left: 17px;
+    width: 75px;
+    height: 75px;
+}
+
+#red-3 {
+    background-color: red;
+    position: absolute;
+    top: 120px;
+    left: 120px;
+    width: 75px;
+    height: 75px;
+}
+
+/* ---- Exercice 5 A ---- */
+#green-4{
+    background-color: #00FF00;
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    top:30px;
+    left:2200px;
+}
+
+#blue-4{
+    background-color: #0000FF;
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    top:20px;
+    left:20px;
+}
+
+#red-4{
+    background-color: red;
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    top:20px;
+    left:200px;
+}
+
+#yellow-4{
+    background-color: #FFFF00;
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    top:200px;
+    left:20px;
+}
+
+#pink-4{
+    background-color: pink;
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    top:200px;
+    left:200px;
+}
+
+/* ---- Exercice 6 A ---- */
+#green-4{
+    background-color: #00FF00;
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    top:30px;
+    left:2200px;
+}
+
+#blue-4{
+    background-color: #0000FF;
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    top:20px;
+    left:20px;
+}
+
+#red-4{
+    background-color: red;
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    top:20px;
+    left:200px;
+}
+
+#yellow-4{
+    background-color: #FFFF00;
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    top:200px;
+    left:20px;
+}
+
+#pink-4{
+    background-color: pink;
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    top:200px;
+    left:200px;
 }
