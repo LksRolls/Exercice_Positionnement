@@ -166,7 +166,7 @@
     left:200px;
 }
 
-/* ---- Exercice 6 A ---- */
+/* ---- Exercice 6  ---- */
 #green-5{
     background-color: #00FF00;
     position: absolute;
@@ -213,4 +213,56 @@
     top:200px;
     left:200px;
     z-index: 1;
+}
+
+/* ---- Exercice 7 ---- */
+#exo7{
+    position: absolute;
+    top:30px;
+    left:5000px;
+}
+
+#green-6{
+    background-color: #00FF00;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top:30px;
+    left:100px;
+}
+
+#blue-6{
+    background-color: #0000FF;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top:30px;
+    left:200px;
+}
+
+#red-6{
+    background-color: red;
+    position: absolute;
+    width: 350px;
+    height: 100px;
+    top:130px;
+    left:100px;
+}
+
+#yellow-6{
+    background-color: #FFFF00;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top:230px;
+    left:250px;
+}
+
+#pink-6{
+    background-color: pink;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top:230px;
+    left:350px;
 }
