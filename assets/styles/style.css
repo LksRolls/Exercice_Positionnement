@@ -167,16 +167,16 @@
 }
 
 /* ---- Exercice 6 A ---- */
-#green-4{
+#green-5{
     background-color: #00FF00;
     position: absolute;
     width: 400px;
     height: 400px;
     top:30px;
-    left:2200px;
+    left:2900px;
 }
 
-#blue-4{
+#blue-5{
     background-color: #0000FF;
     position: absolute;
     width: 140px;
@@ -185,29 +185,32 @@
     left:20px;
 }
 
-#red-4{
+#red-5{
     background-color: red;
     position: absolute;
     width: 140px;
     height: 140px;
-    top:20px;
-    left:200px;
+    top:50px;
+    left:50px;
+    opacity: 75%;
 }
 
-#yellow-4{
+#yellow-5{
     background-color: #FFFF00;
     position: absolute;
     width: 140px;
     height: 140px;
-    top:200px;
-    left:20px;
+    top:170px;
+    left:170px;
+    z-index: 2;
 }
 
-#pink-4{
+#pink-5{
     background-color: pink;
     position: absolute;
     width: 140px;
     height: 140px;
     top:200px;
     left:200px;
+    z-index: 1;
 }
