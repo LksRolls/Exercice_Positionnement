@@ -134,3 +134,52 @@
 
 */
 
+.FirstDiv {
+    background-color: greenyellow;
+    border: 1px solid black;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    right: 30%;
+    bottom: 10%;
+}
+
+.SecDiv {
+    background-color: blue;
+    border: 1px solid black;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    right: 55%;
+    bottom: 55%;
+}
+
+.ThreDiv {
+    background-color: red;
+    border: 1px solid black;
+    position: absolute;
+    top: 10%;
+    left: 55%;
+    right: 10%;
+    bottom: 55%;
+}
+
+.FourDiv {
+    background-color: yellow;
+    border: 1px solid black;
+    position: absolute;
+    top: 55%;
+    left: 10%;
+    right: 55%;
+    bottom: 10%;
+}
+
+.FiveDiv{
+    background-color: orchid;
+    border: 1px solid black;
+    position: absolute;
+    top: 55%;
+    left: 55%;
+    right: 10%;
+    bottom: 10%;
+}
