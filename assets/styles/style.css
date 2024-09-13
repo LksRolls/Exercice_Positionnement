@@ -1,5 +1,5 @@
 *:not(#exo7){
-    margin: 20px;
+    margin: 15px;
     padding:0;
     position:relative;
     display:flex;
@@ -292,6 +292,7 @@ a{
     width: 100px;
     height: 100px;
     float: left; 
+    margin: 0px;
 }
 
 #blue-6 {
@@ -299,6 +300,7 @@ a{
     width: 100px;
     height: 100px;
     float: left; 
+    margin: 0px;
 }
 
 #red-6 {
@@ -306,18 +308,21 @@ a{
     width: 350px;
     height: 100px;
     clear: both; 
+    margin: 0px;
 }
 
 #yellow-6 {
     background-color: #FFFF00;
     width: 100px;
     height: 100px;
-    float: left;
+    float: right;
+    margin: 0px;
 }
 
 #pink-6 {
     background-color: pink;
     width: 100px;
     height: 100px;
-    float: left; 
+    float: right; 
+    margin: 0px;
 }
