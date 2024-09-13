@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    overflow-y: scroll;
+    margin-bottom: 100%;
+}
+
+#liste {
+    background-color: violet;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    width: 150px; 
+    height: 150px;
+    padding: 40px;
+    border-radius: 10%;
+}
+
+#text {
+    margin-left: 250px; 
+    padding: 40px;
+    top: 0;
+}
+
+footer {
+    background-color: black;
+    color: aliceblue;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+}

@@ -1,8 +1,15 @@
-*{
-    margin:20px;
+*:not(#exo7){
+    margin: 20px;
     padding:0;
     position:relative;
     display:flex;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    top: 50px;
 }
 
 /* ---- Exercice 1 ---- */
@@ -183,6 +190,7 @@
     height: 140px;
     top:20px;
     left:20px;
+    z-index: 2;
 }
 
 #red-5{
@@ -193,6 +201,7 @@
     top:50px;
     left:50px;
     opacity: 75%;
+    z-index: 3;
 }
 
 #yellow-5{
@@ -215,7 +224,7 @@
     z-index: 1;
 }
 
-/* ---- Exercice 7 ---- */
+/* ---- Exercice 7 ---- 
 #exo7{
     position: absolute;
     top:30px;
@@ -265,4 +274,50 @@
     height: 100px;
     top:230px;
     left:350px;
+}
+*/
+
+
+/* ---- Exercice 7 avec FLOAT---- */
+#exo7 {
+    box-sizing: border-box;
+    width: 100%; 
+    left:3500px;
+    position:relative;
+    top: 50px;
+}
+
+#green-6 {
+    background-color: #00FF00;
+    width: 100px;
+    height: 100px;
+    float: left; 
+}
+
+#blue-6 {
+    background-color: #0000FF;
+    width: 100px;
+    height: 100px;
+    float: left; 
+}
+
+#red-6 {
+    background-color: red;
+    width: 350px;
+    height: 100px;
+    clear: both; 
+}
+
+#yellow-6 {
+    background-color: #FFFF00;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+#pink-6 {
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    float: left; 
 }
